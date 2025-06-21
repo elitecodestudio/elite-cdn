@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/amx711/elite-cdn?color=eddd02&label-style=flat-square" </a>
+<img src="https://img.shields.io/github/languages/top/elitecodestudio/elite-cdn?color=eddd02&label-style=flat-square" </a>
 </p>
 
 <p align="center">
