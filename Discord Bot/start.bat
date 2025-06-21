@@ -1,0 +1,3 @@
+@echo off
+echo Elite Code ...
+node index.js
