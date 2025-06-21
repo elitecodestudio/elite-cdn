@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Deny direct access to any folder
+RewriteCond %{REQUEST_URI} /.+/$
+RewriteRule ^ - [F,L]
+
+# Allow access to full domain or specific files
+RewriteCond %{REQUEST_URI} !^/$
+RewriteCond %{REQUEST_URI} !^/index\.html$
+RewriteCond %{REQUEST_URI} !^/index\.php$
